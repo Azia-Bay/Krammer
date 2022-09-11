@@ -1,0 +1,27 @@
+* {
+  color: black;
+  font-family: Inter;
+  font-size: 16px;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background: #E7EFFF;
+}
+
+nav {
+  background: white;
+  display: flex;
+  flex-direction: row;
+  height: 12.79vh;
+  width: 100vw;
+}
+
+nav a {
+  align-self: center;
+  font-size: 64px;
+  font-weight: 700;
+  margin-left: 2.5vw;
+  text-decoration: none;
+}
